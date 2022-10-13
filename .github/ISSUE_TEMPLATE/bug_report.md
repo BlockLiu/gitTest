@@ -7,32 +7,52 @@ assignees: ''
 
 ---
 
-**Describe the bug**
+## Describe the bug
 A clear and concise description of what the bug is.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## To Reproduce
 
-**Expected behavior**
+<!--
+Describe how can someone else reproduce the bug.
+-->
+
+We can reproduce the bug as follows (use screenshots if necessary):
+
+1. The job conf is: '....'
+
+2. The test data is: '....'
+
+3. The error can be seen in: '....'
+
+(Note that the above sentences are not necessary for each bug report issue.)
+
+
+## Expected behavior
+
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
+## Screenshots
+
 If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## Build Environment
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+Describe the environment where the test project was build.
+
+ - OS [e.g. Debain 11.0]
+ - JDK [e.g. 1.8.0_301]
+ - Maven [e.g. 3.6.3]
+ - ...
+
+## Execution Environment
+
+Describe the environment where the test project ran.
+
+- OS [e.g. Debain 11.0]
+- JDK [e.g. 1.8.0_301]
+- ...
+
 
 **Additional context**
+
 Add any other context about the problem here.
